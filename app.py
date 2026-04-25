@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.express as px
+import warnings
+warnings.filterwarnings("ignore")
 from utils import (load_data, get_data_summary, train_model_with_complexity_control,
                    save_model, load_model, predict_price, predict_bulk_prices,
                    get_sample_csv_template)
@@ -162,7 +164,7 @@ metrics = model_data["metrics"]
 # ========== SIDEBAR ==========
 with st.sidebar:
     st.markdown("### 📊 ML Workflow")
-    page = st.radio("", [
+    page = st.radio("Navigation", [
         "🏠 Home",
         "📁 Data & Features",
         "🔬 Split & Algorithm",
