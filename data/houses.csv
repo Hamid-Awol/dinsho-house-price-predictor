@@ -1,0 +1,16 @@
+sub_city,area_sqm,bedrooms,bathrooms,year_built,water_source,electricity,fence,floor_type,property_condition,road_access,distance_to_school_km,distance_to_market_km,price_etb
+Bole,150,3,2,2015,Public Water,Yes,Yes,G+2,Good,Asphalt,2.5,1.5,8500000
+Yeka,200,4,3,2018,Private Well,Yes,Yes,G+4,Excellent,Asphalt,1.5,2.0,12000000
+Kirkos,180,3,2,2020,Public Water,Yes,Yes,G+3,Good,Asphalt,3.0,1.0,9500000
+Lideta,120,2,1,2010,Public Water,Yes,No,G+1,Fair,Gravel,2.0,2.5,4500000
+Arada,250,5,4,2012,Public Water,Yes,Yes,G+5,Good,Asphalt,1.0,1.5,15000000
+Gullele,90,1,1,2005,Private Well,No,No,G+0,Fair,Dirt,4.0,3.0,2500000
+Bole,300,4,3,2022,Public Water,Yes,Yes,G+6,Excellent,Asphalt,1.0,1.0,18000000
+Yeka,160,2,2,2016,Public Water,Yes,Yes,G+2,Good,Asphalt,2.0,1.8,7200000
+Kirkos,220,3,2,2014,Private Well,Yes,Yes,G+3,Good,Gravel,2.5,2.0,9800000
+Lideta,110,2,1,2008,Public Water,No,No,G+1,Fair,Dirt,3.5,2.8,3800000
+Arada,280,4,3,2019,Public Water,Yes,Yes,G+4,Excellent,Asphalt,1.2,1.2,13500000
+Gullele,130,2,2,2013,Public Water,Yes,No,G+1,Good,Gravel,2.8,2.2,5500000
+Bole,190,3,2,2017,Public Water,Yes,Yes,G+3,Good,Asphalt,1.8,1.5,8900000
+Yeka,240,4,2,2015,Private Well,Yes,Yes,G+4,Good,Asphalt,2.2,1.8,11200000
+Kirkos,170,3,2,2019,Public Water,Yes,Yes,G+2,Excellent,Asphalt,2.0,1.3,9200000

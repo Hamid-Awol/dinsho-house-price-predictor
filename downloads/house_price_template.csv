@@ -1,0 +1,4 @@
+sub_city,area_sqm,bedrooms,bathrooms,year_built,water_source,electricity,fence,floor_type,property_condition,road_access,distance_to_school_km,distance_to_market_km
+Bole,150,3,2,2015,Public Water,Yes,Yes,G+2,Good,Asphalt,2.5,1.5
+Yeka,200,4,3,2010,Private Well,Yes,No,G+4,Excellent,Gravel,1.5,2.0
+Kirkos,180,3,2,2020,Public Water,Yes,Yes,G+1,Good,Asphalt,3.0,1.0
